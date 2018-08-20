@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ujjwal/bird_classifier/bird-classifier.tfl"
+all_model_checkpoint_paths: "/home/ujjwal/bird_classifier/bird-classifier.tfl"
