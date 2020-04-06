@@ -1,4 +1,4 @@
-# For Image Resize
+# For Image Resize program
 
 import cv2
 import numpy as np
