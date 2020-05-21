@@ -1,6 +1,5 @@
 # Program to calculate time required to execute the program
 
-
 import cv2
 import numpy as np
 
